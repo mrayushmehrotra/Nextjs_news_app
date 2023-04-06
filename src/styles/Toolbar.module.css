@@ -1,0 +1,17 @@
+.main{
+    z-index:1;
+    width:100%;
+    height:50px;
+    display:flex;
+    justify-content:center;
+}
+
+.main div{
+    margin:25px;
+    cursor: pointer;
+    background-color: black;
+}
+
+.main div:hover {
+    color: rgb(168,168,168);
+}
