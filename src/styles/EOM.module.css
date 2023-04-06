@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 .main{
     flex:1;
     display: flex;
     align-items: center;
+    font-family: 'Roboto', sans-serif;
     flex-direction:column;
     margin-top:50px;
 }
