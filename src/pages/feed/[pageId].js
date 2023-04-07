@@ -5,6 +5,7 @@ import { Toolbar } from "../../../components/Toolbar";
 export const Feed =({pageNumber, articles}) =>{
     const router = useRouter();
     return(<>
+     <div class="col-sm-2">
  <div className="page-container">
     <Toolbar />
    <div className={styles.main}>
@@ -34,8 +35,7 @@ export const Feed =({pageNumber, articles}) =>{
             Next Page
         </div>
     </div>
-
-
+   </div>
    </div>
     </>)
 };

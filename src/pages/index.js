@@ -4,6 +4,7 @@ import styles from "../styles/Home.module.css"
 export default function Home() {
   return (
     <>
+      <div class="col-sm-2">
     <div className="page-container">
       <Toolbar />
       <div className={styles.main}>
@@ -12,6 +13,7 @@ export default function Home() {
         <h2>News are like drugs</h2>
 
       </div>
+    </div>
     </div>
       
     </>

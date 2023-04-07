@@ -4,6 +4,7 @@ import { Toolbar } from "../../components/Toolbar";
 export const EOM = ({}) =>{
 
     return(
+        <div class="col-sm-2">
         <div className="page-container">
             <Toolbar />
           
@@ -14,6 +15,7 @@ export const EOM = ({}) =>{
                 <img style={{height: "300px", width: "300px;"}} src="https://pbs.twimg.com/profile_images/1576103656914817024/wWNNbpEM_400x400.jpg" />
                 </div>
             
+        </div>
         </div>
     );
 };
