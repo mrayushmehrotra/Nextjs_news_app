@@ -24,7 +24,7 @@ export const Toolbar = () => {
           router.push("/eom");
         }}
       >
-        EOM
+        Dev
       </div>
       <div
         onClick={() => {
