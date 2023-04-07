@@ -3,7 +3,7 @@ import styles from "../styles/Contact.module.css";
 
 export const contact = () => {
     return(<>
-     <div class="col-sm-2">
+     <div className="col-sm-2">
     <Toolbar />
   
     <div className={styles.main}>
