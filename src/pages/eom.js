@@ -12,7 +12,7 @@ export const EOM = ({}) =>{
                 <h1>Developer</h1>
                 <h2>Ayush Mehrotra</h2>
                 <h3>Web Developer</h3>
-                <img style={{height: "300px", width: "300px;"}} src="https://media.licdn.com/dms/image/D4D03AQHEUuuz67Tyng/profile-displayphoto-shrink_400_400/0/1686627712381?e=1692230400&v=beta&t=evF2a0LW7F8WcjyWtFK0NkcVXixP29g3VduKeVuleOs"/>
+                <img style={{height: "300px", width: "300px;"}} src='https://media.licdn.com/dms/image/D4D03AQHZkFHuDnlT1Q/profile-displayphoto-shrink_400_400/0/1689145787591?e=1695254400&v=beta&t=pG4Njk7efmCx9zK4fwEVuLSD0Jw_xZn5G8WS3ZO51_M'/>
                 </div>
             
         </div>
