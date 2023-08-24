@@ -3,6 +3,8 @@ import styles from "../styles/Contact.module.css";
 
 export const contact = () => {
     return(<>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2227002292527901"
+     crossorigin="anonymous"></script>
      <div className="col-sm-2">
     <Toolbar />
   
