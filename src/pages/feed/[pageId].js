@@ -5,6 +5,8 @@ import { Toolbar } from "../../../components/Toolbar";
 export const Feed =({pageNumber, articles}) =>{
     const router = useRouter();
     return(<>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2227002292527901"
+     crossorigin="anonymous"></script>
      <div class="col-sm-4">
  <div className="page-container">
     <Toolbar />
