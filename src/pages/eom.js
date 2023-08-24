@@ -4,6 +4,9 @@ import { Toolbar } from "../../components/Toolbar";
 export const EOM = ({}) =>{
 
     return(
+        <>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2227002292527901"
+     crossorigin="anonymous"></script>
         <div class="col-sm-2">
         <div className="page-container">
             <Toolbar />
@@ -17,6 +20,7 @@ export const EOM = ({}) =>{
             
         </div>
         </div>
+    </>
     );
 };
 
