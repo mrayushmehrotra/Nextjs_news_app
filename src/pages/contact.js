@@ -13,7 +13,7 @@ export const contact = () => {
         <div className={styles.imgContainer} >
          
     <img className={styles.image} onClick={() =>{
-        window.location.href="https://github.com/Ayushoopp"
+        window.location.href="https://github.com/mrayushmehrotra"
     }} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwqVSIB7OIv_wQReWskd5DGm7OzqmLkj-6f7oycxWyZw&s" />
     </div>
     <div className={styles.imgContainer}>
