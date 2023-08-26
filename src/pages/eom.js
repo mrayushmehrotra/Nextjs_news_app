@@ -15,7 +15,7 @@ export const EOM = ({}) =>{
                 <h1>Developer</h1>
                 <h2>Ayush Mehrotra</h2>
                 <h3>Web Developer</h3>
-                <img style={{height: "300px", width: "300px;"}} src='https://twitter.com/AYUSH070707/photo'/>
+                <img style={{height: "300px", width: "300px;"}} src='https://pbs.twimg.com/profile_images/1576103656914817024/wWNNbpEM_400x400.jpg'/>
                 </div>
             
         </div>
