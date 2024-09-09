@@ -1,20 +1,24 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
-.main{
-    z-index:1;
-    width:100%;
-    height:50px;
-    display:flex;
-    justify-content:center;
-    font-family: 'Roboto', sans-serif;
+.main {
+  margin-top: 20px;
+  z-index: 1;
+  width: fit-content;
+  height: 50px;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  background-color: #27272a;
+  color: white;
+  border-radius: 500px;
+  font-family: "Roboto", sans-serif;
 }
 
-.main div{
-    margin:25px;
-    cursor: pointer;
-    background-color: black;
+.main div {
+  margin: 30px;
+  cursor: pointer;
 }
 
 .main div:hover {
-    color: rgb(168,168,168);
+  color: rgb(168, 168, 168);
 }

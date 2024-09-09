@@ -6,7 +6,8 @@ export const Toolbar = () => {
 
   return (
     <div className={styles.main}>
-      <div onClick={() => {
+      <div
+        onClick={() => {
           router.push("/");
         }}
       >
@@ -28,12 +29,11 @@ export const Toolbar = () => {
       </div>
       <div
         onClick={() => {
-          router.push("/contact")
+          router.push("/contact");
         }}
       >
         Contact
       </div>
-     
     </div>
   );
 };

@@ -1,28 +1,22 @@
-
-  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
-.main{
-    margin:auto;
-    width:80%;
-    height:25%;
-    font-family: 'Roboto', sans-serif;
-    display:flex;
-    justify-content:space-evenly
-    }
-
-.image {
-    height:45%;
-    width:45%;
-margin-top:25%;
-cursor: pointer;
+.main1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.imgContainer{
-    height:45%;
-    width:45%;
-margin-top:20%;
+.image {
+  height: 50%;
+  width: 50%;
+  border-radius: 60%;
+  cursor: pointer;
+}
+
+.imgContainer {
+  height: 45%;
+  width: 45%;
+  margin-top: 20%;
 }
 
 .image:hover {
-    opacity: 50%;
+  opacity: 50%;
 }
